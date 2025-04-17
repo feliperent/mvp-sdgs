@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>RiseForHer - Empowering Women in IT</title>
+  <style>
+    body {
+      margin: 0;
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      background-color: #f9f9f9;
+      color: #333;
+    }
+    header {
+      background-color: #e91e63;
+      color: white;
+      padding: 2rem;
+      text-align: center;
+    }
+    nav {
+      background-color: #c2185b;
+      padding: 1rem;
+      display: flex;
+      justify-content: center;
+    }
+    nav a {
+      color: white;
+      margin: 0 1rem;
+      text-decoration: none;
+      font-weight: bold;
+    }
+    section {
+      padding: 2rem;
+      max-width: 1000px;
+      margin: auto;
+    }
+    .section-title {
+      color: #e91e63;
+      font-size: 2rem;
+      margin-bottom: 1rem;
+    }
+    footer {
+      background-color: #c2185b;
+      color: white;
+      text-align: center;
+      padding: 1rem;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>RiseForHer</h1>
+    <p>Achieving Equality in the IT Sector</p>
+  </header>
+  <nav>
+    <a href="#mission">Mission</a>
+    <a href="#programs">Programs</a>
+    <a href="#partners">Partners</a>
+    <a href="#contact">Contact</a>
+  </nav>
+  <section id="mission">
+    <h2 class="section-title">Our Mission</h2>
+    <p>RiseForHer is dedicated to bridging the gender gap in the IT industry through targeted tutoring, mentoring, and consulting initiatives. We empower women, advise companies, and collaborate with governments to create inclusive environments where women thrive.</p>
+  </section>
+  <section id="programs">
+    <h2 class="section-title">Our Programs</h2>
+    <ul>
+      <li><strong>Tutoring:</strong> Technical training and upskilling for women entering or advancing in IT.</li>
+      <li><strong>Mentoring:</strong> One-on-one guidance from experienced industry professionals.</li>
+      <li><strong>Consulting:</strong> Strategic support for companies and governments to implement gender-equity policies and initiatives.</li>
+    </ul>
+  </section>
+  <section id="partners">
+    <h2 class="section-title">Partner With Us</h2>
+    <p>We work with forward-thinking organizations that believe in equality and inclusion. Join us in shaping a future where everyone has a seat at the tech table.</p>
+  </section>
+  <section id="contact">
+    <h2 class="section-title">Contact Us</h2>
+    <p>Email: contact@riseforher.org</p>
+    <p>Follow us on social media: @riseforher</p>
+  </section>
+  <footer>
+    <p>&copy; 2025 RiseForHer. All rights reserved.</p>
+  </footer>
+</body>
+</html>
